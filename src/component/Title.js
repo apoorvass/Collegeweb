@@ -22,7 +22,7 @@ function Title()
                 <p className='num12'> contact</p>
             </div>
             <div>
-                <img src={imag} className='photosize'></img>
+                <img src={imag} alt='' className='photosize'></img>
             </div>
         </div>
     );

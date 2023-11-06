@@ -54,3 +54,22 @@
     color: orange;
     text-align: center;
 }
+.styling2{
+    background-color: white;
+    color: green;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.w1{
+    display: flex;
+}
+.type1{
+    background-color: aquamarine;
+    border-radius: 300px;
+    font-size: 15px;
+    margin-right: 40px;
+    margin-left: 40px;
+    width: 350px;
+}
+    

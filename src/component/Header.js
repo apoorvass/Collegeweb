@@ -12,7 +12,7 @@ function Header()
                 <h5 className='num5'>Alumni</h5>
             </div>
             <div className='a1'>
-                <img src={logo}></img>
+                <img src={logo} alt=''></img>
             </div>
         </div>
     );
