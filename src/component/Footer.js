@@ -16,7 +16,7 @@ function Footer()
     return(
         <div>
             <div className='styling'>
-                <h1><i><b>WELCOME TO OUR COLLEGE</b></i></h1>
+                <h1><i><b>WELCOME TO STJIT COLLEGE</b></i></h1>
             </div>
             <div className='a1'>
                 <div>
