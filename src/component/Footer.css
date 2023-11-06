@@ -1,0 +1,56 @@
+.styling{
+    background-color: white;
+    color: green;
+    font-family: cursive;
+    font-size: 30px;
+}
+.a1{
+    display: flex;
+}
+.image1{
+    width: 350px;
+    height: 250px;
+}
+.image2{
+    width: 350px;
+    height: 250px;
+}
+.image3{
+    width: 600px;
+    height: 500px;
+    align-content: center;
+}
+.image4{
+    width: 350px;
+    height: 250px;
+}
+.image5{
+    width: 350px;
+    height: 250px;
+}
+.image6{
+    width: 550px;
+    height: 450px;
+}
+.styling1{
+    background-color: white;
+    color: green;
+    font-family: cursive;
+    font-size: 40px;
+}
+.a2{
+    display: flex;
+}
+.text{
+    font-size: 20px;
+    text-align: justify;
+}
+.text1{
+    font-size: 20px;
+    text-align: center;
+}
+.text2{
+    font-size: 20px;
+    color: orange;
+    text-align: center;
+}

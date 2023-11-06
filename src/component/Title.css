@@ -1,0 +1,33 @@
+.position1{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+.num6{
+    margin-left: 100px;
+}
+.num7{
+    margin-left: 100px;
+    background-color: black;
+    color: white;
+}
+.num8{
+    margin-left: 100px;
+}
+.num9{
+    margin-left: 100px;
+}
+.num10{
+    margin-left: 100px;
+}
+.num11{
+    margin-left: 100px;
+}
+.num12{
+    margin-left: 100px;
+}
+.photosize{
+    display: flex;
+    width: 1260px;
+    height: 500px;
+}
